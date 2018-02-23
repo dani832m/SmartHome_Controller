@@ -1,4 +1,5 @@
 # SmartHome Controller
+A draft for creating a SmartHome Controller in OOD.
 
 ### Identify the problem domain
 
